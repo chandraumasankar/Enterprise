@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="global.com_snc_core_automation_connection_credential_glideencrypter">550cd0b07722201099808d1168106121</crypto_module>
+        <key_type display_value="Symmetric Key Encryption Key">ca005cf7c7103300af4d43c6f0976328</key_type>
+        <last_enforced>2026-11-09 05:21:43</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-09 05:21:43</sys_created_on>
+        <sys_id>2e68b73f08d413107f44d349f7b1d38d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Enterprise" source="x_snc_enterprise">8ca7f7fb08d413107f44d349f7b1d318</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise">8ca7f7fb08d413107f44d349f7b1d318</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_2e68b73f08d413107f44d349f7b1d38d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-09 05:21:43</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>
